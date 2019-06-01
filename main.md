@@ -2,7 +2,7 @@ Web technologies
 ================
 Boilerplates
 ------------
-* staticsiteboilerplate.com
+* www.staticsiteboilerplate.com  
 
 Online editors
 --------------
@@ -22,5 +22,7 @@ Prototyping
 Reference
 --------------
 * https://www.w3schools.com/
+* https://www.w3.org/
+
 
 
