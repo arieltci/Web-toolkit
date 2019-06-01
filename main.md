@@ -4,6 +4,7 @@ Boilerplates
 ------------
 * Static site: www.staticsiteboilerplate.com  
 * REST api: https://github.com/KunalKapadia/express-mongoose-es6-rest-api
+* Html5 boilerplate https://github.com/h5bp/html5-boilerplate 
 
 Online editors
 --------------
