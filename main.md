@@ -2,7 +2,8 @@ Web technologies
 ================
 Boilerplates
 ------------
-* www.staticsiteboilerplate.com  
+* Static site: www.staticsiteboilerplate.com  
+* REST api: https://github.com/KunalKapadia/express-mongoose-es6-rest-api
 
 Online editors
 --------------
