@@ -1,5 +1,8 @@
 Web technologies
 ================
+Boilerplates
+------------
+* staticsiteboilerplate.com
 
 Online editors
 --------------
