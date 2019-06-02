@@ -38,6 +38,9 @@ Reference
 --------------
 * https://www.w3schools.com/
 * https://www.w3.org/
+* https://www.javascripting.com/
+* http://sahatyalkabov.com/jsrecipes/#!/
+
 
 
 
