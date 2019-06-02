@@ -1,11 +1,19 @@
 Web technologies
 ================
+
 Boilerplates
 ------------
 * Static site: www.staticsiteboilerplate.com  
 * REST api: https://github.com/KunalKapadia/express-mongoose-es6-rest-api
 * Html5 boilerplate https://github.com/h5bp/html5-boilerplate 
 
+Node:
+  * https://github.com/sahat/hackathon-starter
+  * https://github.com/kriasoft/nodejs-api-starter
+  * https://github.com/madhums/node-express-mongoose
+  * https://github.com/icebob/vue-express-mongo-boilerplate
+  * https://github.com/talyssonoc/node-api-boilerplate
+  
 Online editors
 --------------
 * https://stackblitz.com
