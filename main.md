@@ -1,5 +1,10 @@
-Web technologies
-================
+# Awesome *your list name* [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+> A curated list of <your list name>.
+
+[What makes for an awesome list?](awesome.md)
+
+Please read the [contribution guidelines](contributing.md) or the [creating a list guide](create-list.md) if you want to contribute.
 
 Boilerplates
 ------------
@@ -13,6 +18,9 @@ Node:
   * https://github.com/madhums/node-express-mongoose
   * https://github.com/icebob/vue-express-mongo-boilerplate
   * https://github.com/talyssonoc/node-api-boilerplate
+ 
+ Html template: 
+  * https://pixelarity.com/formula
   
 Online editors
 --------------
