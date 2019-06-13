@@ -48,6 +48,7 @@
 * http://sahatyalkabov.com/jsrecipes/#!/
 * https://developer.mozilla.org/en-US/
 * https://css-tricks.com/
+* https://serverless-stack.com/chapters/configure-aws-amplify.html
 
 
 
