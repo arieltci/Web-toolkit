@@ -29,7 +29,8 @@
 * https://framework7.io/#get-started
 
 ## CSS
-
+* https://cssbattle.dev/tips/
+* https://100dayscss.com/
 
 ## Graphics
 
