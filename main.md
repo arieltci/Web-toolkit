@@ -31,6 +31,7 @@
 ## CSS
 * https://cssbattle.dev/tips/
 * https://100dayscss.com/
+* https://zimjs.com/
 
 ## Graphics
 
